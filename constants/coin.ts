@@ -1,0 +1,23 @@
+export const coins = [
+  "ETHBTC",
+  "BTCUSDT",
+  "ETHUSDT",
+  "BTCUSDC",
+  "ETHUSDC",
+  "XRPUSDC",
+  "USDCUSDT",
+  "SOLUSDC",
+  "MATICUSDC",
+];
+
+export enum ECoinSymbol {
+  ETHBTC = "ETHBTC",
+  BTCUSDT = "BTCUSDT",
+  ETHUSDT = "ETHUSDT",
+  BTCUSDC = "BTCUSDC",
+  ETHUSDC = "ETHUSDC",
+  XRPUSDC = "XRPUSDC",
+  USDCUSDT = "USDCUSDT",
+  SOLUSDC = "SOLUSDC",
+  MATICUSDC = "MATICUSDC",
+}
